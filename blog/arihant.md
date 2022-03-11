@@ -1,6 +1,6 @@
 ---
-slug: anil-blog
-title: Anil Blog
+slug: Arihant-blog
+title: Arihant Blog
 authors:
   name: anilmasetti
   title: Docusaurus Core Team
